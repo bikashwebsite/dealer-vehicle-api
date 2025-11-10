@@ -1,0 +1,7 @@
+target/
+frontend/node_modules
+**/*.log
+.git
+.idea
+.vscode
+.env
