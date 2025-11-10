@@ -19,7 +19,8 @@ import com.microservice.dealervehicle.dealer_vehicle_api.service.VehicleService;
 
 @RestController
 @RequestMapping("/vehicles")
-@CrossOrigin(origins = "http://localhost:9012")
+//@CrossOrigin(origins = "http://localhost:9012")
+@CrossOrigin(origins = "*")
 public class VehicleController {
 
 	@Autowired
