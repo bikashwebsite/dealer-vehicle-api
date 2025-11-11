@@ -166,7 +166,7 @@ dealer-vehicle-api/
 
 ```bash
 # Clone repository
-git clone https://github.com/BikashSahoo99/dealer-vehicle-api.git
+git clone https://github.com/bikashwebsite/dealer-vehicle-api.git
 cd dealer-vehicle-api
 
 # Run Spring Boot app
